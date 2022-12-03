@@ -1,3 +1,7 @@
+📝 I start this project to apply my analysis skill on SQL, Tableau & Python. This project shows my analysis on the Covid_19 Data.
+
+👀 More About me
+
 👋 Hi, I’m @Michael_Nguyen, a fresh graduate from City university of Hong Kong.
 
 👨‍🎓 I just got my BBA (Hon) Finance (1st) Degree and now actively looking for a junior data analysis job.
