@@ -4,7 +4,7 @@
 
 👀 I’m interested in Data_Analysis and tring to combine it with my Business knodgwledge to generate Enormous Value.
 
-📝 I start this project to apply my analysis skill on SQL, Tableau & Python. This project shows of analysis on the Covid_19 Data.
+📝 I start this project to apply my analysis skill on SQL, Tableau & Python. This project shows my analysis on the Covid_19 Data.
 
 💞️ I’m looking to collaborate on an exciting and dynamic working environment in data analysis feild.
 
