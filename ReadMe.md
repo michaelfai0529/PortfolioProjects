@@ -1,4 +1,4 @@
-👋 Hi, I’m @Michael_Nguyen, a recent graduate from City university of Hong Kong.
+👋 Hi, I’m @Michael_Nguyen, a fresh graduate from City university of Hong Kong.
 
 👨‍🎓 I just got my BBA (Hon) Finance (1st) Degree and now actively looking for a junior data analysis job.
 
