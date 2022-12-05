@@ -129,7 +129,8 @@ Select *, (AccumulatedVac /population) as VaccRate
 From #VaccRate
 
 
--- Creating View to store data for later visulization
+-- Creating View to store data
+
 Create View VaccRate_1 as
 
 Select dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations
